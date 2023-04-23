@@ -5,7 +5,7 @@
     <classes>
       <class name="register_User.R_UserRegiterExcel">
         <methods>
-          <include name="UserRegisterOK" invocation-numbers="0 1 2"/>
+          <include name="UserRegisterOK" invocation-numbers="0 1"/>
           <include name="startDriver"/>
           <include name="stopDriver"/>
         </methods>
