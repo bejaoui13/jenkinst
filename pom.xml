@@ -174,7 +174,11 @@
 					<artifactId>maven-jar-plugin</artifactId>
 					<version>3.0.0</version>
 					<configuration>
-						 
+						<archive>
+							<manifest>
+								<mainClass>register_User.R_TestBase</mainClass>
+							</manifest>
+						</archive>
 
 					</configuration>
 				</plugin>
