@@ -171,11 +171,11 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-jar-plugin</artifactId>
-					<version>4.1.0</version>
+					<version>3.0.0</version>
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>R_UserRegiterExcel</mainClass>
+								<mainClass>register_User.R_UserRegiterExcel</mainClass>
 							</manifest>
 						</archive>
 
