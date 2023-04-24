@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20959" started-at="2023-04-23T23:08:42 BST" finished-at="2023-04-23T23:09:03 BST">
+  <suite name="Default suite" duration-ms="29645" started-at="2023-04-24T19:55:22 BST" finished-at="2023-04-24T19:55:52 BST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20959" started-at="2023-04-23T23:08:42 BST" finished-at="2023-04-23T23:09:03 BST">
+    <test name="Default test" duration-ms="29645" started-at="2023-04-24T19:55:22 BST" finished-at="2023-04-24T19:55:52 BST">
       <class name="register_User.R_UserRegiterExcel">
-        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:register_User.R_UserRegiterExcel@1fc2b765]" name="startDriver" is-config="true" duration-ms="7360" started-at="2023-04-23T23:08:34 BST" finished-at="2023-04-23T23:08:42 BST">
+        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:register_User.R_UserRegiterExcel@22eeefeb]" name="startDriver" is-config="true" duration-ms="8401" started-at="2023-04-24T19:55:14 BST" finished-at="2023-04-24T19:55:22 BST">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method status="PASS" signature="UserRegisterOK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:register_User.R_UserRegiterExcel@1fc2b765]" name="UserRegisterOK" duration-ms="7166" started-at="2023-04-23T23:08:44 BST" data-provider="UserData" finished-at="2023-04-23T23:08:51 BST">
+        <test-method status="PASS" signature="UserRegisterOK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:register_User.R_UserRegiterExcel@22eeefeb]" name="UserRegisterOK" duration-ms="10461" started-at="2023-04-24T19:55:25 BST" data-provider="UserData" finished-at="2023-04-24T19:55:35 BST">
           <params>
             <param index="0">
               <value>
@@ -69,7 +69,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserRegisterOK -->
-        <test-method status="PASS" signature="UserRegisterOK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:register_User.R_UserRegiterExcel@1fc2b765]" name="UserRegisterOK" duration-ms="5977" started-at="2023-04-23T23:08:51 BST" data-provider="UserData" finished-at="2023-04-23T23:08:57 BST">
+        <test-method status="PASS" signature="UserRegisterOK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:register_User.R_UserRegiterExcel@22eeefeb]" name="UserRegisterOK" duration-ms="9055" started-at="2023-04-24T19:55:35 BST" data-provider="UserData" finished-at="2023-04-24T19:55:44 BST">
           <params>
             <param index="0">
               <value>
@@ -120,7 +120,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserRegisterOK -->
-        <test-method status="PASS" signature="UserRegisterOK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:register_User.R_UserRegiterExcel@1fc2b765]" name="UserRegisterOK" duration-ms="6019" started-at="2023-04-23T23:08:57 BST" data-provider="UserData" finished-at="2023-04-23T23:09:03 BST">
+        <test-method status="PASS" signature="UserRegisterOK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:register_User.R_UserRegiterExcel@22eeefeb]" name="UserRegisterOK" duration-ms="7876" started-at="2023-04-24T19:55:44 BST" data-provider="UserData" finished-at="2023-04-24T19:55:52 BST">
           <params>
             <param index="0">
               <value>
@@ -171,7 +171,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserRegisterOK -->
-        <test-method status="PASS" signature="stopDriver()[pri:0, instance:register_User.R_UserRegiterExcel@1fc2b765]" name="stopDriver" is-config="true" duration-ms="1" started-at="2023-04-23T23:09:03 BST" finished-at="2023-04-23T23:09:03 BST">
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:register_User.R_UserRegiterExcel@22eeefeb]" name="stopDriver" is-config="true" duration-ms="1" started-at="2023-04-24T19:55:52 BST" finished-at="2023-04-24T19:55:52 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopDriver -->

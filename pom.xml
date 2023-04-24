@@ -176,7 +176,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>register_User.R_TestBase</mainClass>
+								<mainClass>register_User.R_UserRegiterExcel</mainClass>
 							</manifest>
 						</archive>
 
