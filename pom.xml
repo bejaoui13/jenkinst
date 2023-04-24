@@ -176,8 +176,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>register_User.R_TestBase</mainClass>
-							</manifest>
+ 							</manifest>
 						</archive>
 
 					</configuration>
