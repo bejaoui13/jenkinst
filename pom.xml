@@ -128,9 +128,9 @@
 					<configuration>
 
 						<fork>true</fork>
-						<executable>C:\Program Files\Java\jdk1.8.0_251\bin\javac.exe</executable>
-						<source>1.8</source>
-						<target>1.8</target>
+						<executable>C:\Program Files\Java\jdk-17.0.1\bin\javac.exe</executable>
+						<source>17</source>
+						<target>17</target>
 						<compilerArgument>-XDignore.symbol.file</compilerArgument>
 					</configuration>
 
@@ -142,7 +142,7 @@
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>3.0.0-M5</version>
 					<configuration>
-						<useSystemClassLoader>false</useSystemClassLoader>
+						<useSystemClassLoader></useSystemClassLoader>
 					</configuration>
 				</plugin>
 
